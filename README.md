@@ -1,2 +1,2 @@
-# wcprog
-wcprog
+# wc
+wc
